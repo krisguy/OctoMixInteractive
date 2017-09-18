@@ -1,0 +1,4 @@
+include README.md
+recursive-include octoprint_OctoMixInteractive/templates *
+recursive-include octoprint_OctoMixInteractive/translations *
+recursive-include octoprint_OctoMixInteractive/static *
